@@ -11,17 +11,6 @@ I'm a Software Engineer with a demonstrated history of working in the technology
 - **Database Management:** SQL, SQLite, PostgreSQL, MongoDB
 - **Cloud and DevOps:** AWS, Firebase, Docker, Terraform, GitHub Actions
 
-  ### Technologies I work with:
-<p>
-  <img src="https://simpleicons.org/icons/javascript.svg" width="30" height="30" alt="JavaScript" title="JavaScript">
-  <img src="https://simpleicons.org/icons/react.svg" width="30" height="30" alt="React" title="React">
-  <img src="https://simpleicons.org/icons/node-dot-js.svg" width="30" height="30" alt="Node.js" title="Node.js">
-  <img src="https://simpleicons.org/icons/python.svg" width="30" height="30" alt="Python" title="Python">
-  <img src="https://simpleicons.org/icons/docker.svg" width="30" height="30" alt="Docker" title="Docker">
-  <img src="https://simpleicons.org/icons/amazonaws.svg" width="30" height="30" alt="AWS" title="AWS">
-</p>
-
-
 👯 **Collaboration:**
 - I'm open to collaborating on projects that leverage cutting-edge technology to solve real-world problems. Whether it's developing web applications or diving deep into the potentials of AI, I'm interested in pushing the envelope.
 
