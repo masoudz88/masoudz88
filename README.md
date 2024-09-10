@@ -20,16 +20,16 @@ I'm a Software Engineer with a demonstrated history of working in the technology
 ![](https://github-readme-streak-stats.herokuapp.com/?user=masoudz88&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudz88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-👯 **Collaboration:**
+### 👯 **Collaboration:**
 - I'm open to collaborating on projects that leverage cutting-edge technology to solve real-world problems. Whether it's developing web applications or diving deep into the potentials of AI, I'm interested in pushing the envelope.
 
-🤔 **I'm Looking For:**
+### 🤔 **I'm Looking For:**
 - Opportunities to leverage my skills in full-stack development, cloud technologies and machine learning to contribute to impactful projects.
 
-💬 **Ask me about:**
+### 💬 **Ask me about:**
 - My experience developing highly responsive web applications and creating robust back-end solutions and delploying applications on the cloud using CI/CD pipelines.
 
-📫 **How to reach me:**
+### 📫 **How to reach me:**
 - [Email](mailto:masoudz@mun.ca)
 - [LinkedIn](https://www.linkedin.com/in/masoudzare/)
 - [Portfolio](https://masoudz88.github.io/my_portfolio/)
