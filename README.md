@@ -112,7 +112,15 @@
 - My experience developing highly responsive web applications and creating robust back-end solutions and delploying applications on the cloud using CI/CD pipelines.
 
 ### 📫 **How to reach me:**
-- [Email](mailto:masoudz@mun.ca)
-- [LinkedIn](https://www.linkedin.com/in/masoudzare/)
-- [Portfolio](https://masoudz88.github.io/my_portfolio/)
+
+<a href="mailto:masoudz@mun.ca">
+    <img height="50" src="![image](https://github.com/user-attachments/assets/8d5df3a4-638f-424d-a6d7-70ea0d825daa)
+"/>
+</a>
+<a href="https://www.linkedin.com/in/masoudzare">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+<a href="https://masoudz88.github.io/my_portfolio">
+    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
+</a>
 
