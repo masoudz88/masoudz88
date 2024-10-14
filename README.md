@@ -11,7 +11,7 @@
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
+            <span><strong>React.js</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
             <td width="80px" align="center">
@@ -19,12 +19,16 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Nextjs</strong></span><br>
+            <span><strong>Next.js</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Node JS</strong></span><br>
+            <span><strong>Node.js</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Electron.js</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Redux</strong></span><br>
@@ -52,6 +56,7 @@
             </td>
         </tr>
         <tr valign="top">
+            <td width="80px" align="center">
             <span><strong>Python</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
@@ -114,13 +119,12 @@
 ### 📫 **How to reach me:**
 
 <a href="mailto:masoudz@mun.ca">
-    <img height="50" src="![image](https://github.com/user-attachments/assets/8d5df3a4-638f-424d-a6d7-70ea0d825daa)
-"/>
+    <img height="50" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"/>
 </a>
 <a href="https://www.linkedin.com/in/masoudzare">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+    <img height="50" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"/>
 </a>
 <a href="https://masoudz88.github.io/my_portfolio">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
+    <img height="50" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png"/>
 </a>
 
