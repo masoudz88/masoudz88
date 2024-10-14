@@ -28,7 +28,15 @@ Full-stack Software Developer
             </td>
             <td width="80px" align="center">
             <span><strong>Redux</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/rredux-original.svg">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Nginex</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginex/nginex-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Webpack</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>HTML5</strong></span><br>
@@ -57,7 +65,7 @@ Full-stack Software Developer
             </td>
             <td width="80px" align="center">
             <span><strong>Django</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>MongoDB</strong></span><br>
