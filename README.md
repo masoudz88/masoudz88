@@ -4,8 +4,7 @@ Hello! I'm Masoud Zare 👋
 🚀 About Me:
 - Currently innovating at [Voronoi Health Analytics](https://www.voronoihealthanalytics.com/), where I develop cutting-edge tools to enhance machine learning models in healthcare.
 - software engineer with robust skills in React, Node.js, Django, and extensive experience with AWS. My journey in tech is marked by a commitment to user-centric solutions and a passion for transformative, efficient software development.
-- ***Entrepreneurial Spirit:*** Co-founder of [Gigplus Analytics Ltd.](thegigplus.com), an emerging startup focused on enhancing the financial wellbeing of gig workers through powerful analytics.
-
+- ***Entrepreneurial Spirit:*** Co-founder of [Gigplus Analytics Ltd.](https://thegigplus.com/home), an emerging startup focused on enhancing the financial wellbeing of gig workers through powerful analytics.
 
 <table width="320px">
     <tbody>
@@ -101,9 +100,6 @@ Hello! I'm Masoud Zare 👋
 ![](https://github-readme-stats.vercel.app/api?username=masoudz88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=masoudz88&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudz88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 👯 **Collaboration:**
-- I'm open to collaborating on projects that leverage cutting-edge technology to solve real-world problems. Whether it's developing web applications or diving deep into the potentials of AI, I'm interested in pushing the envelope.
 
 ### 🤔 **I'm Looking For:**
 - Opportunities to leverage my skills in full-stack development, cloud technologies and machine learning to contribute to impactful projects.
