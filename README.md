@@ -1,11 +1,11 @@
-## Hi there, I'm Masoud Zare 👋
+Hello! I'm Masoud Zare 👋
+🌟 Full-Stack Software Developer
 
-Full-stack Software Developer
+🚀 About Me:
+- Currently innovating at [Voronoi Health Analytics](https://www.voronoihealthanalytics.com/), where I develop cutting-edge tools to enhance machine learning models in healthcare.
+- software engineer with robust skills in React, Node.js, Django, and extensive experience with AWS. My journey in tech is marked by a commitment to user-centric solutions and a passion for transformative, efficient software development.
+- ***Entrepreneurial Spirit:*** Co-founder of [Gigplus Analytics Ltd.](thegigplus.com), an emerging startup focused on enhancing the financial wellbeing of gig workers through powerful analytics.
 
-### 🔭 About me:
-- I'm currently working in [Voronoi Health Analytics](https://www.voronoihealthanalytics.com/).
-- I'm co-founding [Gigplus Analytics Ltd.](https://thegigplus.com).
-- I'm a Software Engineer with expertise in full-stack development, enhancing user experience through digital solutions. Skilled in React, Node.js, and Django. Experienced in cross-functional collaboration and data analytics. Dedicated to continuous learning and innovative software development. Experienced with AWS and Familiar with machine learning 
 
 <table width="320px">
     <tbody>
@@ -31,8 +31,8 @@ Full-stack Software Developer
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Nginex</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginex/nginex-original.svg">
+            <span><strong>Nginx</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Webpack</strong></span><br>
@@ -115,6 +115,4 @@ Full-stack Software Developer
 - [Email](mailto:masoudz@mun.ca)
 - [LinkedIn](https://www.linkedin.com/in/masoudzare/)
 - [Portfolio](https://masoudz88.github.io/my_portfolio/)
-
-Check out my projects and let's connect!
 
