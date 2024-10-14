@@ -27,10 +27,6 @@ Full-stack Software Developer
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>React Native</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg">
-            </td>
-            <td width="80px" align="center">
             <span><strong>Redux</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/rredux-original.svg">
             </td>
@@ -73,7 +69,7 @@ Full-stack Software Developer
             </td>
             <td width="80px" align="center">
             <span><strong>AWS</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Firebase</strong></span><br>
@@ -90,7 +86,6 @@ Full-stack Software Developer
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            <td width="80px" align="center">
         </tr>
     </tbody>
 </table>
