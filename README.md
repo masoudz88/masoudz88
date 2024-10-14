@@ -116,15 +116,3 @@
 ### 💬 **Ask me about:**
 - My experience developing highly responsive web applications and creating robust back-end solutions and delploying applications on the cloud using CI/CD pipelines.
 
-### 📫 **How to reach me:**
-
-<a href="mailto:masoudz@mun.ca">
-    <img height="50" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"/>
-</a>
-<a href="https://www.linkedin.com/in/masoudzare">
-    <img height="50" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"/>
-</a>
-<a href="https://masoudz88.github.io/my_portfolio">
-    <img height="50" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png"/>
-</a>
-
