@@ -98,9 +98,10 @@
     </tbody>
 </table>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=masoudz88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=masoudz88&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudz88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masoudz88&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masoudz88&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudz88&theme=dark&hide_border=true&layout=compact)
 
 ### 🤔 **I'm Looking For:**
 - Opportunities to leverage my skills in full-stack development, cloud technologies and machine learning to contribute to impactful projects.
