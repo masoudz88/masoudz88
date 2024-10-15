@@ -3,7 +3,7 @@
 ## 🌟 Full-Stack Software Developer
 
 ### 🚀 **About Me:**:
-- Currently innovating at [Voronoi Health Analytics](https://www.voronoihealthanalytics.com/), where I develop cutting-edge tools to enhance machine learning models in healthcare.
+- Currently working at [Voronoi Health Analytics](https://www.voronoihealthanalytics.com/), where I develop cutting-edge tools to enhance machine learning models in healthcare.
 - software engineer with robust skills in React, Node.js, Django, and extensive experience with AWS. My journey in tech is marked by a commitment to user-centric solutions and a passion for transformative, efficient software development.
 - ***Entrepreneurial Spirit:*** Co-founder of [Gigplus Analytics Ltd.](https://thegigplus.com/home), an emerging startup focused on enhancing the financial wellbeing of gig workers through powerful analytics.
 
