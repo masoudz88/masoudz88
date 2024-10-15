@@ -102,7 +102,8 @@
         </tr>
     </tbody>
 </table>
-# 📊 GitHub Stats:
+
+### 📊 **GitHub Stats:**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masoudz88&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 <br/>
