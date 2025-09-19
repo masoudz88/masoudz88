@@ -3,7 +3,7 @@
 ## 🌟 Full-Stack Software Developer/ AI Engineer
 
 ### 🚀 **About Me:**:
-- Currently working at [Heyorca](https://www.heyorca.com/), where I Guide and mentor other AI engineers, helping them innovate and efficiently develop and deploy cutting-edge AI solutions.
+- Currently working at [Heyorca](https://www.heyorca.com/), Helping social media managers build community by developing innovative AI solutions to boost their performance and outreach.
 - software engineer with robust skills in React, Node.js, Django, Python and extensive experience with AWS. My journey in tech is marked by a commitment to user-centric solutions and a passion for transformative, efficient software development.
 - ***Entrepreneurial Spirit:*** Co-founder of [Gigplus Analytics Ltd.](https://thegigplus.com/home), an emerging startup focused on enhancing the financial wellbeing of gig workers through powerful analytics.
 
